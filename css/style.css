@@ -181,6 +181,8 @@ color: #fff;
 	position:relative;
 	background:#fff;
 }
+
+
 .main-nav{
 	text-align:center;
 	margin:10px 0 0px;
@@ -692,6 +694,11 @@ border: 2px solid #fff;
 .form{
 	margin:0 66px 0 30px;
 }
+
+div.form h1 {
+	margin-top: 0px;
+}
+
 .input-text{
 	padding:15px 16px;
 	border:1px solid #ccc;
